@@ -32,7 +32,7 @@
 
 
 
-MainActivity.java
+
 
 package com.example.explicit;
 
@@ -72,7 +72,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-activity_main2.xml:
+
+
+
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -97,7 +99,7 @@ activity_main2.xml:
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-MainActivity2.java
+
 
 package com.example.explicit;
 
@@ -119,4 +121,3 @@ public class MainActivity2 extends AppCompatActivity {
         data.setText(val);
     }
 }
-
